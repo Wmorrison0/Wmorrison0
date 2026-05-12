@@ -1,16 +1,17 @@
-## Hi there 👋
+# Will Morrison
 
-<!--
-**Wmorrison0/Wmorrison0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Business Analytics Graduate with a background in Commercial Real Estate and Predictive Analytics.
 
-Here are some ideas to get you started:
+## Interests
+- Predictive Analytics
+- Data Visualization
+- Machine Learning
+- Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+Python • R • SQL • Tableau • GitHub
+
+## Featured Projects
+- NBA Draft Analytics and Predictive Modeling
+- Movie ROI Prediction Model
+- AI Workflow Automation for Commissary Ordering
