@@ -1,17 +1,17 @@
 # Will Morrison
 
-MS Business Analytics Graduate with a background in Commercial Real Estate and Predictive Analytics.
+MS Business Analytics Graduate with a background in Commercial Real Estate, data-driven decision making, and business problem solving
 
 ## Interests
-- Predictive Analytics
+- Business Anayltics
 - Data Visualization
-- Machine Learning
 - Business Intelligence
+- Operations & Process Improvement
 
 ## Tools & Technologies
-Python • R • SQL • Tableau • GitHub
+Excel • Python • R • SQL • Tableau • GitHub
 
 ## Featured Projects
-- NBA Draft Analytics and Predictive Modeling
-- Movie ROI Prediction Model
-- AI Workflow Automation for Commissary Ordering
+- NBA Draft Risk Calculator
+- Movie ROI Prediction Tool
+- Mortgage Calculator
