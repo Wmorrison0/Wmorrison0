@@ -1,6 +1,6 @@
 # Will Morrison
 
-MS Business Analytics Graduate with a background in Commercial Real Estate, data-driven decision making, and business problem solving
+MS Business Analytics Graduate with a background in Commercial Real Estate, and experience using data and technology to solve business problems. Four years of management experiemce in restuarant operations has strengthened my leadership, communication, and process improvement skills.
 
 ## Interests
 - Business Anayltics
@@ -9,7 +9,7 @@ MS Business Analytics Graduate with a background in Commercial Real Estate, data
 - Operations & Process Improvement
 
 ## Tools & Technologies
-Excel • Python • R • SQL • Tableau • GitHub
+Excel • SQL • Tableau • Python • R • GitHub
 
 ## Featured Projects
 - NBA Draft Risk Calculator
